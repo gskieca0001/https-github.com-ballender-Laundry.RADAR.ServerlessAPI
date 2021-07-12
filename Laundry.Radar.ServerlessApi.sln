@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laundry.Radar.ServerlessApi", "Laundry.Radar.ServerlessApi\Laundry.Radar.ServerlessApi.csproj", "{F2AD8FFA-873E-4CC2-92E7-81C0A70CA9BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2AD8FFA-873E-4CC2-92E7-81C0A70CA9BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2AD8FFA-873E-4CC2-92E7-81C0A70CA9BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2AD8FFA-873E-4CC2-92E7-81C0A70CA9BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2AD8FFA-873E-4CC2-92E7-81C0A70CA9BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C53B7B64-FF14-48C6-BBCB-CB4B06E86C32}
+	EndGlobalSection
+EndGlobal
